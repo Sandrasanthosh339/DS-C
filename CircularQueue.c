@@ -97,6 +97,7 @@ void deleteq(int queue[])
         printf("\n %d deleted", queue[front]);
         front++;
     }
+}
 
 OUTPUT
 
